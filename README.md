@@ -1,2 +1,2 @@
 # EcommerceWEB
- ReactJs Tailwind CSS
+ ReactTs Tailwind CSS
