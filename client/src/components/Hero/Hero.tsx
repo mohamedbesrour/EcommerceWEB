@@ -33,6 +33,22 @@ const Hero = () => {
         {/* background pattern */}
         <div className="h-[700px] w-[700px] bg-primary/40 absolute -top-1/2 right-0 rounded-3xl rotate-45 -z-9">
 
+        <div className="container pb-8 sm:pb-0">
+          <div>
+            <div className="grid grid-cols-1 sm:grid-cols-2">
+              <div>
+                <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold">Lorem ipsum dolor sit.</h1>
+                <p className="text-sm">rgfhejqhejqhejqhejqhejqhejqhejqhejqhejqhejqhejqhejqhejqhejql</p>
+                <div>
+                  <button className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full">
+                    Order Now
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
         </div>
         {/* hero section */}
     </div>
